@@ -1,0 +1,17 @@
+
+Tag 유형 설명
+ 1. <strong></strong> Bolt체
+ 2. <u></u> Underline
+ 3. <p></p> 단락 지정
+ 4. <br> 한 칸 띄어주기
+ 5. <img src="파일명(파일 업로드 필요)" width="크기"> 
+ 6. <li></li> 목차로 사용하기 위해서 
+ 7. <ol></ol> 알아서 넘버링되면서 리스트를 만들고
+ 8. <ul></ul> 넘버링이 알아서 조정되지 않는다.
+ 9. <!DOCTYPE html> 최상단에 선언하고 아래와 같은 구조를 만든다.
+    <html>
+    <head>
+    <body>
+    </body>
+    </head>
+    </html>
